@@ -14,5 +14,5 @@ function display(result){
 const sum = calculate(100,50)
 display(sum)
 
-console.log("Hello")
+console.log("789456")
 console.log("hi")
