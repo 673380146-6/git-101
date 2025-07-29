@@ -15,3 +15,4 @@ const sum = calculate(100,50)
 display(sum)
 
 console.log("Hello")
+console.log("hi")
