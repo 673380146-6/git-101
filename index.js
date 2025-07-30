@@ -16,3 +16,5 @@ display(sum)
 
 console.log("789456")
 console.log("hi")
+console.log("hi")
+console.log("dhifoi")
